@@ -1,4 +1,6 @@
-more-functional-fb
+More Functional Facebook - Browser Extension for Google Chrome
 ==================
 
-Chrome extension to make Facebook a bit more useful
+This extension removes the newsfeed and ticker from Facebook. It also rewrites the links so that
+they can be clicked to or copypasted directly, instead of getting the url that redirects through Facebook.
+

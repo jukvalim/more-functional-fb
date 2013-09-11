@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+
+  "name": "More Functional Facebook",
+  "description": "This extension makes Facebook a bit more useful, removing time-wasting and inconvenient features, such as news feed and links that reroute through Facebook.",
+  "version": "0.1",
+
+  "content_scripts": [
+    {
+      "matches": [
+          "https://www.facebook.com/*",
+          "http://www.facebook.com/*"
+      ],
+      "css": ["fb_changes.css"],
+      "js": ["jquery-1.7.1.min.js", "fb_changes.js"]
+    }
+  ],
+
+  "permissions": [ 
+     "https://www.facebook.com/*",
+     "http://www.facebook.com/*"
+  ]
+  
+}

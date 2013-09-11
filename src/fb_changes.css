@@ -1,0 +1,13 @@
+
+.fb_hidden {
+    display: none;
+}
+
+.fb_visible {
+    display: block;
+}
+
+#pagelet_home_stream, #groupsNav, #pagelet_ticker {
+    display: none;
+}
+
