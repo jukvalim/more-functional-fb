@@ -1,13 +1,9 @@
 
-.fb_hidden {
-    display: none;
+#pagelet_home_stream {
+    visibility: hidden;
 }
 
-.fb_visible {
-    display: block;
-}
-
-#pagelet_home_stream, #groupsNav, #pagelet_ticker {
+#groupsNav, #pagelet_ticker {
     display: none;
 }
 
