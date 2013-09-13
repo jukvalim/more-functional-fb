@@ -1,10 +1,16 @@
 More Functional Facebook - Browser Extension for Google Chrome
 ------------------
+This extension hides some time-wasting, attention-baiting elements of Facebook, making it more utilitarian.
 
-This extension removes the newsfeed and ticker from Facebook. It also rewrites the links so that
-they can be clicked to or copypasted directly, instead of getting the url that redirects through Facebook.
+What it does
+------------------
 
-To install, do the following:
+It removes the newsfeed, the ticker and the sponsored column from Facebook.
+It hides the links to groups from the front page. It also rewrites links so that
+they can be clicked to or copypasted directly, instead of getting redirected through Facebook.
+
+Installation
+------------------
 
 1. Download the crx file: https://github.com/jukvalim/more-functional-fb/raw/master/crx/more-functional-fb.crx
 
