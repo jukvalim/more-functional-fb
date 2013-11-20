@@ -1,6 +1,6 @@
 /* The news feed container. Use visibility:hidden
 instead of display:none to prevent constant reloading of newsfeed. */
-#pagelet_home_stream {
+#stream_pagelet {
     visibility: hidden;
 }
 
